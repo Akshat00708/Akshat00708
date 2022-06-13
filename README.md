@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshat00708
 - 👀 I’m interested in Web Develponemt
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on spaceX 
 - 📫 How to reach me warrior00708@gmail.com
 
 <!---
